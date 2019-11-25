@@ -1,5 +1,13 @@
 # SocieteGenerale
 This Is for interview 
+
+How to configure:
+
+1- Clone the repository.
+2- Open your ID and import it as an Existing maven Project
+3- Choose the path where you have cloned the repo.
+4- ID will automatically download all dependencies. if you found any issue please do an maven update.
+
 How to Run:
 
 - right clik on project -> Run As -> Spring Boot App
